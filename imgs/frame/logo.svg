@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 416.1 179.6"
+	 style="enable-background:new 0 0 416.1 179.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:30.9286px;}
+	.st4{font-size:18.0417px;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:16;stroke-miterlimit:10;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="170.6" width="374.6" x="56.6" y="-329.5"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<rect x="160" y="15" class="st0" width="68.1" height="33.6"/>
+<text transform="matrix(1 0 0 1 159.9574 37.1764)" class="st1 st2 st3">CH</text>
+<rect x="207.8" y="30.6" class="st0" width="52.5" height="36"/>
+<text transform="matrix(1 0 0 1 207.8178 43.5192)" class="st1 st2 st4">3</text>
+<rect x="225.6" y="80.7" class="st0" width="34.8" height="91"/>
+<text transform="matrix(1 0 0 1 225.5771 102.8234)"><tspan x="0" y="0" class="st1 st2 st3">N</tspan><tspan x="0" y="38.5" class="st1 st2 st3">H</tspan></text>
+<line class="st5" x1="267.9" y1="100.7" x2="300" y2="80.7"/>
+<rect x="307.4" y="61.9" class="st0" width="68.1" height="33.6"/>
+<text transform="matrix(1 0 0 1 307.3974 84.0616)" class="st1 st2 st3">CH</text>
+<rect x="353.8" y="78.3" class="st0" width="52.5" height="36"/>
+<text transform="matrix(1 0 0 1 353.8456 91.1837)" class="st1 st2 st4">3</text>
+<g>
+	<polygon class="st5" points="116.1,76.2 77.9,98.2 39.8,76.2 39.8,32.3 77.9,10.3 116.1,32.3 	"/>
+	<polyline class="st5" points="194,54.2 194,76.2 156.2,96.8 116.1,76.2 	"/>
+	<line class="st5" x1="194" y1="76.2" x2="214.1" y2="96.3"/>
+</g>
+</svg>

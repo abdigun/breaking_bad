@@ -1,0 +1,318 @@
+
+
+/*   frame    */
+
+
+/* homepage */
+
+.frame {
+	position: fixed;
+	z-index: 10;
+}
+
+.frame > * {
+	position: fixed;
+}
+
+.frame-al {
+	max-height: 100%;
+}
+
+.left-f {
+
+    height: 96%;
+    width: 5px;
+    background: #fff;
+    border-radius: 50px;
+    top: 2%;
+    left: 1%;
+}
+
+
+.right-f {
+
+    height: 96%;
+    width: 5px;
+    background: #fff;
+    border-radius: 50px;
+    top: 2%;
+    right:  1%;
+
+}
+
+.btm-left-f {
+
+    height: 5px;
+    width: 40%;
+    background: #fff;
+    bottom: 2%;
+    left: 1%;
+    border-radius: 50px;
+
+}
+
+.btm-right-f {
+
+    height: 5px;
+    width: 40%;
+    background: #fff;
+    bottom: 2%;
+    right: 1%;
+    border-radius: 50px;
+
+}
+
+.top-right-f {
+
+    height: 5px;
+    width: 30%;
+    background: #fff;
+    top: 2%;
+    right: 11%;
+    border-radius: 50px;
+
+}
+
+.top-left-f {
+
+    height: 5px;
+    width: 30%;
+    background: #fff;
+    top: 2%;
+    left: 11%;
+    border-radius: 50px;
+
+}
+
+.logo-cl {
+	
+	 
+    width: 7rem;
+    left: 3%;
+    top: 1%;
+
+}
+
+.arrow-hp {
+
+	width: 1rem;
+    bottom: 1%;
+    left: 50%;
+}
+
+.menu-al {
+
+    width: 8%;
+    text-align: center!important;
+    top: 1%!important;
+    right: 2%!important;
+    color: #fff!important;
+    position: fixed!important;
+    height: 3%;
+    display: flex;
+    background: #000;
+    flex-direction: column;
+    overflow: hidden;
+    font-family: 'Alata', sans-serif;
+
+
+
+}
+
+.menu-txt {
+
+    margin: auto;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.menu-txt-b {
+
+    margin: auto;
+    position: relative;
+   
+    
+    width: 100%;
+    height: 100%;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    display: none;
+    color: #fff;
+}
+
+.menu-text {
+
+    margin: auto;
+
+
+}
+
+.border-t {
+
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background: white;
+    height: 3px;
+    right: 0%;
+
+}
+
+.border-r {
+
+    position: absolute;
+    top: 0;
+    width: 3px;
+    background: white;
+    height: 100%;
+    right: 0%;
+
+}
+
+.border-b {
+
+    position: absolute;
+    width: 100%;
+    background: white;
+    height: 3px;
+    right: 0%;
+    bottom: 0;
+
+}
+
+.border-l {
+
+    position: absolute;
+    top: 0;
+    width: 3px;
+    background: white;
+    height: 100%;
+    left: 0%;
+
+}
+
+.title {
+    
+    
+	top: 0.5%;
+	left: 48%;
+
+}
+
+.font-title {
+	font-size: 1.5rem;
+    font-family: 'Alata', sans-serif;
+	color: #fff;
+}
+
+
+/* cast */
+
+.btm-fll {
+
+    height: 5px;
+    width: 98%;
+    background: #fff;
+    bottom: 2%;
+    right: 1%;
+    border-radius: 50px;
+
+ 
+}
+
+/* character */
+
+.title-char {
+
+    top: 1%;
+    left: 46%;
+
+}
+
+
+.menu-dropdown {
+
+    top: 4%;
+    width: 8%;
+    right: 2%;
+    display: flex;
+    flex-direction: column;
+    background: #000;
+    overflow: hidden;
+    height: 0%;
+
+}
+
+
+
+.drop-home {
+
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: 20%;
+   
+    display: flex;
+
+}
+
+.drop-cast {
+
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: 20%;
+    
+    display: flex;
+}
+
+.drop-char {
+
+position: relative;
+    margin: auto;
+    width: 100%;
+    height: 20%;
+    
+    display: flex;
+
+}
+
+.dr-csma , .dr-hma , .dr-chma { margin: auto; }
+
+
+.border-menu-in-b {
+
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    bottom: 0;
+    background: #fff;
+
+}
+
+.border-menu-in-r {
+
+    position: absolute;
+    width: 3px;
+    height: 100%;
+    top: 0;
+    background: #fff;
+    right: 0;
+
+}
+
+.border-menu-in-l {
+
+    position: absolute;
+    width: 3px;
+    height: 100%;
+    top: 0;
+    background: #fff;
+
+}
+
