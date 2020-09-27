@@ -1,1 +1,3 @@
-this is breaking bad fan page 
+breaking bad fan page 
+
+live view :https://abdigun.github.io/breaking_bad/
